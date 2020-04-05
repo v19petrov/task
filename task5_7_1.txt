@@ -1,0 +1,5 @@
+Monday ooo 10000 4000
+Tuesday ooo 12000 28500
+Wednesday ooo 100000 30000
+Thursday ip 540600 168800
+Friday oao 3160000 45943800
